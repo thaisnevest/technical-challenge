@@ -1,4 +1,3 @@
-/* App.css */
 .App {
   text-align: center;
   display: flex;
@@ -77,9 +76,7 @@ tfoot button {
 }
 
 
-/* App.css */
-
-/* Mobile styles */
+/* responsive */
 @media (max-width: 600px) {
   .App {
     padding: 10px;
